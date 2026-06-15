@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="1024" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="1024">
+<path d="M 0 0 L 2048 0 L 2048 2048 L 0 2048 L 0 0 z" fill="rgb(255,255,255)" transform="translate(0,0)"></path>
+<path d="M 426.625 388.494 L 1658.01 388.84 L 1658.33 1662.55 L 1622.86 1662.52 L 391.085 1662.49 L 391.101 388.723 L 426.625 388.494 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "3yNoZikaDsj38Nj+M/jc0nclslnF7XLUSXdk8gnxXSljdGJlwUkt1d3HjxIJ9egIex1cit+KsadJLLteq5HBAw==", "signing_algo": "Ed25519", "generation_timestamp": 1781563808, "identifier": "4138a539-8e0b-48cb-9166-5294c956b15a"}</recraft-signature></metadata></svg>
